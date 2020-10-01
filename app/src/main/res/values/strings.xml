@@ -23,4 +23,7 @@
     <string name="buy">Beli</string>
     <string name="dummy_value">$735</string>
     <string name="dummy_photos">6 photos</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
